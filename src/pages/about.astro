@@ -1,0 +1,39 @@
+---
+import aboutImg from "@/assets/about-astro.png";
+import PageLayout from "@/layouts/Base.astro";
+import { Image } from "astro:assets";
+
+const meta = {
+	description: "I'm a starter theme for Astro.build",
+	title: "About",
+};
+---
+
+<PageLayout meta={meta}>
+	<div class="space-y-6">
+		<h1 class="title">About</h1>
+		<p>Wassup!</p>
+		<p>I'm a Developer from Brazil who loves technology and inovation.</p>
+		<p>Here some curiosities about me:</p>
+		<ul class="list-inside list-disc">
+			<li>My favorite stack is Vue.js;</li>
+			<li>I'm a nerd, so i love anime, movies and games;</li>
+			<li>My favorite book is The Name of the Wind;</li>
+			<li>I'm currently based on Bauru/SP in Brazil! (please, come to Brazil);</li>
+			<li>
+				<p class="inline-flex">
+					Check my
+					<a
+						aria-label="linktree"
+						class="mx-2 items-center grayscale hover:underline hover:filter-none"
+						href="https://linktr.ee/kkjbarreto"
+						target="_blank"
+					>
+						Linktree
+					</a>
+					and follow me on social media.
+				</p>
+			</li>
+		</ul>
+	</div>
+</PageLayout>
