@@ -1,7 +1,11 @@
 <h1 align="center">
-  Barreto.dev - 🧙‍♂️ chanelling
+  Barreto.dev
 </h1>
+<p align="center">
+  🧙‍♂️ chanelling
+</p>
 
+<br><br>
 My personal blog, where I write about software development, productivity, and other topics that I find interesting.
 
 ## Stacks
