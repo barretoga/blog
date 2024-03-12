@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
 		},
 	},
 	webmentions: {
-		link: "https://webmention.io/astro-cactus.chriswilliams.dev/webmention",
+		link: "https://barretodev.vercel.app/",
 	},
 };
 

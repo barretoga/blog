@@ -1,17 +1,17 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Barreto.dev",
+	"short_name": "Barreto_dev",
+	"description": "A blog by Gabriel Barreto",
 	"icons": [
 		{
-			"src": "/192x192.png",
+			"src": "/favicon.ico",
 			"sizes": "192x192",
-			"type": "image/png"
+			"type": "image/svg"
 		},
 		{
-			"src": "/512x512.png",
+			"src": "/favicon.ico",
 			"sizes": "512x512",
-			"type": "image/png"
+			"type": "image/svg"
 		}
 	],
 	"start_url": "/",
