@@ -8,13 +8,16 @@ coverImage:
   alt: "TwosApp"
 ---
 
+## Hello again!
 Hello Guys! How are you doing?
 
 Today I'm going to show you a new tool that I found via @joseli.to on @bluesky (thank you Joselito, this tool totally made my week). The tool is named TwosApp. TwosApp is an organization tool and productivity tool that allows you to create "THINGS". It was created by Parker Klein, a former Google engineer who developed this tool for about six years before launching, because he wanted the tool to be very complete before letting other users access (Or because he doesn't want to have trouble with Google and Google Keep, but shhh). So, TwosApp is a Things Tool..
 
-## But, what things? 🤔
+**But, what things? 🤔**
 
-#### Many things!
+**Many things!**
+
+## Understanding TwosApp's "Things" and Functionalities
 
 TwosApp plays with the meaning of the word "Things", using Thing as a broad and abstract concept that has a lot of small types of "thing". So, first I'm going to talk about the "Thing" types. We have six types of things, they are:
 - Dash - Just a dash, some things don't need to be that special;
