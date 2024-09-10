@@ -1,5 +1,5 @@
 ---
-title: "💡The productivity tool that you've been searching for!"
+title: "💡 The productivity tool that you've been searching for!"
 description: "Today I'm going to share with you a new tool that I've been using for the last few days"
 publishDate: "10 Sept 2024"
 tags: ["twosapp", "organization-tool", "productivity-tool", "tool"]
