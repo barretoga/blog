@@ -1,8 +1,11 @@
 ---
+import kittyLogo from "@/assets/kitty.png";
+
 import { menuLinks } from "@/site-config";
 
 import Search from "../Search.astro";
 import ThemeToggle from "../ThemeToggle.astro";
+import Image from "astro/components/Image.astro";
 
 const url = new URL(Astro.request.url);
 ---
@@ -14,7 +17,11 @@ const url = new URL(Astro.request.url);
 			class="-inset-x-[5.8rem] inline-flex items-center gap-x-3 grayscale transition-all duration-300 hover:filter-none sm:relative"
 			href="/"
 		>
-			<img class="h-[40px] w-[40px] sm:h-[80px] sm:w-[80px]" src="/kitty.png" />
+			<Image
+				class="h-[40px] w-[40px] sm:h-[80px] sm:w-[80px]"
+				src={kittyLogo}
+				alt="Kitty using a computer logo"
+			/>
 			<span class="text-xl font-bold sm:text-2xl">Barreto.dev</span>
 		</a>
 		<nav

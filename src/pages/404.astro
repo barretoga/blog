@@ -1,5 +1,5 @@
 ---
-import aboutImg from "@/assets/about-astro.png";
+import notFound from "@/assets/not-found.svg";
 import PageLayout from "@/layouts/Base.astro";
 import { Image } from "astro:assets";
 
@@ -15,9 +15,9 @@ const meta = {
 	<div class="my-4 grid justify-center">
 		<Image
 			alt="A cartoon cactus looking at the 'Astro.build' logo"
-			class="rotate-180"
+			class="w-64 grayscale transition-all duration-300 hover:filter-none"
 			loading="eager"
-			src={aboutImg}
+			src={notFound}
 		/>
 	</div>
 </PageLayout>
